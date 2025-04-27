@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Postgraduate Program In Data Science And Analytics**
 
-- 👨‍💻 All of my projects are available at [https://jeffrinwebsterportfolio.netlify.app/](https://jeffrinwebsterportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jeffrinwebster.wixsite.com/my-site-1](https://jeffrinwebster.wixsite.com/my-site-1)
 
 - 📝 I regularly write articles on [https://medium.com/@jeffrinwebster/unveiling-hidden-patterns-a-data-driven-guide-to-mastering-eda-84c8f37c8885](https://medium.com/@jeffrinwebster/unveiling-hidden-patterns-a-data-driven-guide-to-mastering-eda-84c8f37c8885)
 
