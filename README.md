@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeffrin Webster</h1>
 <h3 align="center">An aspiring Data Scientist and full-stack developer from Tamil Nadu, India.</h3>
 
-I’m currently enrolled in the **Postgraduate Program in Data Science and Analytics** from **Imarticus**.
+I’m currently enrolled in the **Postgraduate Program in Data Science and Analytics** from **Imarticus**. This program covers the latest concepts in data science, machine learning, and analytics, helping me develop the skills needed to excel in the field.
+
+You can learn more about the program [here](https://imarticus.org/home_new/).
 
 - 👨‍💻 All of my projects are available at [https://jeffrinwebster.wixsite.com/my-site-1](https://jeffrinwebster.wixsite.com/my-site-1)
 
