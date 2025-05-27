@@ -7,7 +7,7 @@ You can learn more about the program [here](https://imarticus.org/home_new/).
 
 - 👨‍💻 All of my projects are available at [https://jeffrinwebster.wixsite.com/portfolio](https://jeffrinwebster.wixsite.com/portfolio)
 
-- 📝 I regularly write articles on [https://medium.com/@jeffrinwebster/unveiling-hidden-patterns-a-data-driven-guide-to-mastering-eda-84c8f37c8885](https://medium.com/@jeffrinwebster/unveiling-hidden-patterns-a-data-driven-guide-to-mastering-eda-84c8f37c8885)
+- 📝 I regularly write articles on [https://medium.com/@jeffrinwebster](https://medium.com/@jeffrinwebster)
 
 - 📫 How to reach me **jeffrinwebster@gmail.com**
 
