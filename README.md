@@ -5,7 +5,7 @@ I’m currently enrolled in the **Postgraduate Program in Data Science and Analy
 
 You can learn more about the program [here](https://imarticus.org/home_new/).
 
-- 👨‍💻 All of my projects are available at [https://jeffrinwebster.wixsite.com/portfolio](https://jeffrinwebster.wixsite.com/portfolio)
+- 👨‍💻 All of my projects are available at [https://jeffrin-webster-portfolio.netlify.app/](https://jeffrin-webster-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@jeffrinwebster](https://medium.com/@jeffrinwebster)
 
