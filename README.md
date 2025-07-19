@@ -72,6 +72,4 @@
 
 ---
 
-<p align="center">
-  <b>“Transforming Data into Decisions. Coding Ideas into Impact.”</b>
-</p>
+<p align="center"><i>"Dream big. Build smart. Execute fast."</i></p>
