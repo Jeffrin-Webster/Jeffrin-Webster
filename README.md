@@ -1,75 +1,25 @@
-<h1 align="center">Jeffrin Webster</h1>
-<h3 align="center">Aspiring Data Scientist | Full-Stack Developer | Tamil Nadu, India</h3>
+<h1 align="center">Hi 👋, I'm Jeffrin Webster</h1>
+<h3 align="center">An aspiring Data Scientist and full-stack developer from Tamil Nadu, India.</h3>
 
-<p align="center">
-  <a href="https://jeffrinwebster-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-   <a href="https://www.linkedin.com/in/jeffrinwebster" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@jeffrinwebster" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:jeffrinwebster@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+I’m currently enrolled in the **Postgraduate Program in Data Science and Analytics** from **Imarticus**. This program covers the latest concepts in data science, machine learning, and analytics, helping me develop the skills needed to excel in the field.
 
----
+You can learn more about the program [here](https://imarticus.org/home_new/).
 
-## 🧠 About Me
+- 👨‍💻 All of my projects are available at [https://jeffrinwebster-portfolio.netlify.app/](https://jeffrinwebster-portfolio.netlify.app/)
 
-🎓 Currently pursuing a **Postgraduate Program in Data Science & Analytics** from [Imarticus Learning](https://imarticus.org/home_new/), focusing on:
+- 📝 I regularly write articles on [https://medium.com/@jeffrinwebster](https://medium.com/@jeffrinwebster)
 
-- Data Analysis & Business Intelligence  
-- Machine Learning & Predictive Modelling  
-- Real-world Case Studies & Industry Tools
+- 📫 How to reach me **jeffrinwebster@gmail.com**
 
-💡 I’m passionate about solving real-world problems using **data and code**, and building intelligent applications with impactful UX.
-
----
-
-## 🛠️ Tech Stack
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,mysql,html,css,javascript,bootstrap,django,pandas,numpy,scikit-learn,seaborn,git,postman,figma" />
+<a href="https://www.linkedin.com/in/jeffrinwebster" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffrinwebster" height="30" width="40" />
+</a>
+<a href="https://medium.com/@jeffrinwebster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jeffrinwebster" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-## 📊 GitHub Insights
-
-<p align="left">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=jeffrin-webster&show_icons=true&theme=radical" width="47%" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrin-webster&layout=compact&theme=white" width="47%" />
-</p>
-
----
-
-## 📘 Latest Articles
-
-- [🔗 Check out my articles on Medium](https://medium.com/@jeffrinwebster)
-
-> I write about Python, Data Science, AI, and career insights for aspiring developers.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Tech | Demo |
-|--------|------|------|
-| **Portfolio Website** | React.js, Netlify | [Live](https://jeffrinwebster-portfolio.netlify.app) |
-| **SafeAI** |  Python, Streamlit,LLM | Coming soon |
-
-
----
-
-## 📫 Let's Collaborate
-
-- I'm open to exciting **collaborations**, **startups**, and **freelance opportunities** in Data Science or AI.
-- Feel free to reach out — I love building meaningful tech.
-
----
-
-<p align="center"><i>"Dream big. Build smart. Execute fast."</i></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffrin-webster&show_icons=true&locale=en&layout=compact" alt="jeffrin-webster" /></p>
