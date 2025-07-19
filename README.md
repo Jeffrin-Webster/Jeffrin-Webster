@@ -1,94 +1,60 @@
 <h1 align="center">Jeffrin Webster</h1>
-<h3 align="center">Aspiring Data Scientist | Full-Stack Developer | Tamil Nadu, India</h3>
+<h3 align="center">Aspiring Data Scientist & Full-Stack Developer | Tamil Nadu, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Data+Science+%7C+ML+%7C+AI+%7C+Full+Stack+Developer;Always+Learning+%26+Building+Great+Tech" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://jeffrinwebster-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-   <a href="https://www.linkedin.com/in/jeffrinwebster" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@jeffrinwebster" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:jeffrinwebster@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jeffrin-webster.readme" alt="Visitors" />
+  <a href="https://jeffrinwebster-portfolio.netlify.app" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/jeffrinwebster" target="_blank">LinkedIn</a> •
+  <a href="https://medium.com/@jeffrinwebster" target="_blank">Medium</a> •
+  <a href="mailto:jeffrinwebster@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-🎓 Currently pursuing a **Postgraduate Program in Data Science & Analytics** from [Imarticus Learning](https://imarticus.org/home_new/), focusing on:
+I'm currently pursuing a **Postgraduate Program in Data Science & Analytics** from [Imarticus Learning](https://imarticus.org/home_new/), where I'm gaining hands-on experience with:
 
 - Data Analysis & Business Intelligence  
-- Machine Learning & Predictive Modelling  
+- Machine Learning & Predictive Modeling  
 - Real-world Case Studies & Industry Tools
 
-💡 Passionate about solving real-world problems using **data + code**, and building intelligent apps with impactful UX.
+I’m passionate about solving real-world problems using **data, code, and product thinking**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,mysql,html,css,javascript,bootstrap,django,pandas,numpy,scikit-learn,seaborn,git,postman,figma" />
-</p>
-
----
-
-## 📊 GitHub Insights
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrin-webster&layout=compact&theme=white" width="47%" />
-</p>
+- **Languages:** Python, JavaScript, HTML, CSS, SQL  
+- **Frameworks & Libraries:** React.js, Node.js, Express, Django, Bootstrap  
+- **Tools & Platforms:** Git, Postman, Figma, Firebase, Netlify  
+- **Data Science:** Pandas, NumPy, scikit-learn, Seaborn, Matplotlib  
+- **Databases:** MongoDB, MySQL
 
 ---
 
-## 📘 Latest Articles
+## Featured Projects
 
-- [Check out my blogs on Medium](https://medium.com/@jeffrinwebster)  
-> I share insights on Python, Data Science, AI, and career growth for tech learners.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Tech | Demo |
-|--------|------|------|
-| **Portfolio Website** | React.js, Netlify | [Live](https://jeffrinwebster-portfolio.netlify.app) |
-| **SafeAI** | Python, Streamlit, LLM | Coming soon |
+| Project            | Description                                  | Tech Used               | Demo                                      |
+|--------------------|----------------------------------------------|--------------------------|-------------------------------------------|
+| Portfolio Website  | Personal portfolio showcasing my work         | React.js, Netlify        | [View Live](https://jeffrinwebster-portfolio.netlify.app) |
+| SafeAI (Coming Soon) | Realtime monitoring of harmful AI content   | Python, Streamlit, LLMs  | Coming soon                               |
 
 ---
 
-## 📈 GitHub Activity Graph
+## Articles
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffrin-webster&theme=react-dark&area=true&hide_border=true" />
-</p>
+I share insights and practical knowledge about Python, AI, and career tips on [Medium](https://medium.com/@jeffrinwebster).
 
 ---
 
-## 📫 Let’s Collaborate
+## Contact
 
-I'm open to:
-- 🤝 Collaborations  
-- 🚀 Startups & Side Projects  
-- 🧠 Freelance AI/Data Science gigs
+I'm open to collaborations, freelance projects, or full-time opportunities in Data Science and AI.
 
-💬 Feel free to reach out at **jeffrinwebster@gmail.com**
+📫 Email: [jeffrinwebster@gmail.com](mailto:jeffrinwebster@gmail.com)
 
 ---
 
 <p align="center">
-  <b>“Transforming Data into Decisions. Coding Ideas into Impact.”</b>
+  <i>“Transforming Data into Decisions. Coding Ideas into Impact.”</i>
 </p>
