@@ -41,7 +41,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffrin-webster&show_icons=true&theme=radical" width="47%" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=jeffrin-webster&show_icons=true&theme=radical" width="47%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrin-webster&layout=compact&theme=radical" width="47%" />
 </p>
 
@@ -60,8 +60,8 @@
 | Project | Tech | Demo |
 |--------|------|------|
 | **Portfolio Website** | React.js, Netlify | [Live](https://jeffrinwebster-portfolio.netlify.app) |
-| **Cancer Prediction App (WIP)** | ML, Python, Streamlit | Coming soon |
-| **AI Life 360** | React Native, NLP, FastAPI | Coming soon |
+| **SafeAI** |  Python, Streamlit,LLM | Coming soon |
+
 
 ---
 
