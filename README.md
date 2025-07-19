@@ -2,6 +2,10 @@
 <h3 align="center">Aspiring Data Scientist | Full-Stack Developer | Tamil Nadu, India</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Data+Science+%7C+ML+%7C+AI+%7C+Full+Stack+Developer;Always+Learning+%26+Building+Great+Tech" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://jeffrinwebster-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
@@ -16,6 +20,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jeffrin-webster.readme" alt="Visitors" />
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -26,7 +34,7 @@
 - Machine Learning & Predictive Modelling  
 - Real-world Case Studies & Industry Tools
 
-💡 I’m passionate about solving real-world problems using **data and code**, and building intelligent applications with impactful UX.
+💡 Passionate about solving real-world problems using **data + code**, and building intelligent apps with impactful UX.
 
 ---
 
@@ -41,7 +49,6 @@
 ## 📊 GitHub Insights
 
 <p align="left">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=jeffrin-webster&show_icons=true&theme=radical" width="47%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrin-webster&layout=compact&theme=white" width="47%" />
 </p>
 
@@ -49,9 +56,8 @@
 
 ## 📘 Latest Articles
 
-- [🔗 Check out my articles on Medium](https://medium.com/@jeffrinwebster)
-
-> I write about Python, Data Science, AI, and career insights for aspiring developers.
+- [Check out my blogs on Medium](https://medium.com/@jeffrinwebster)  
+> I share insights on Python, Data Science, AI, and career growth for tech learners.
 
 ---
 
@@ -60,15 +66,26 @@
 | Project | Tech | Demo |
 |--------|------|------|
 | **Portfolio Website** | React.js, Netlify | [Live](https://jeffrinwebster-portfolio.netlify.app) |
-| **SafeAI** |  Python, Streamlit,LLM | Coming soon |
-
+| **SafeAI** | Python, Streamlit, LLM | Coming soon |
 
 ---
 
-## 📫 Let's Collaborate
+## 📈 GitHub Activity Graph
 
-- I'm open to exciting **collaborations**, **startups**, and **freelance opportunities** in Data Science or AI.
-- Feel free to reach out — I love building meaningful tech.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffrin-webster&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+## 📫 Let’s Collaborate
+
+I'm open to:
+- 🤝 Collaborations  
+- 🚀 Startups & Side Projects  
+- 🧠 Freelance AI/Data Science gigs
+
+💬 Feel free to reach out at **jeffrinwebster@gmail.com**
 
 ---
 
