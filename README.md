@@ -86,6 +86,6 @@ You can learn more about the program <a href="https://imarticus.org/home_new/">h
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffrin-webster&show_icons=true&locale=en&layout=compact" alt="jeffrin-webster" />
 </p>
