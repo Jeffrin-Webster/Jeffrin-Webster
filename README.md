@@ -64,3 +64,49 @@ I’m currently pursuing the <b>Postgraduate Program in Data Science and Analyti
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffrin-webster&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+<h3 align="left">🚀 Featured Projects:</h3>
+<table>
+<tr>
+<td align="center">
+<a href="https://jeffrinwebster-portfolio.netlify.app/#project1">
+  <img src="https://via.placeholder.com/200x120.png?text=OppRa+Job+Platform" alt="OppRa" width="200" />
+  <br><b>OppRa - AI Job Discovery</b>
+</a>
+</td>
+<td align="center">
+<a href="https://jeffrinwebster-portfolio.netlify.app/#project2">
+  <img src="https://via.placeholder.com/200x120.png?text=NeoPredict+AI" alt="NeoPredict AI" width="200" />
+  <br><b>NeoPredict AI - Cancer Prediction</b>
+</a>
+</td>
+<td align="center">
+<a href="https://jeffrinwebster-portfolio.netlify.app/#project3">
+  <img src="https://via.placeholder.com/200x120.png?text=AI+Task+Automation" alt="AI Task Automation" width="200" />
+  <br><b>AI Task Automation Bot</b>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://jeffrinwebster-portfolio.netlify.app/#project4">
+  <img src="https://via.placeholder.com/200x120.png?text=AI+Life+360" alt="AI Life 360" width="200" />
+  <br><b>AI Life 360 - Personal Assistant App</b>
+</a>
+</td>
+<td align="center">
+<a href="https://jeffrinwebster-portfolio.netlify.app/#project5">
+  <img src="https://via.placeholder.com/200x120.png?text=Data+Analytics+Projects" alt="Data Analytics Projects" width="200" />
+  <br><b>Data Analytics Projects</b>
+</a>
+</td>
+<td align="center">
+<a href="https://jeffrinwebster-portfolio.netlify.app/#project6">
+  <img src="https://via.placeholder.com/200x120.png?text=Other+Projects" alt="Other Projects" width="200" />
+  <br><b>Other Full-Stack Projects</b>
+</a>
+</td>
+</tr>
+</table>
